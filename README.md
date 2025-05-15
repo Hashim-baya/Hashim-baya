@@ -24,6 +24,9 @@
 ### 📊 GitHub Stats  
 
 ![Hashim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hashim-baya&show_icons=true&theme=radical)  
+![](https://github.com/users/Hashim-baya/contributions)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hashim-baya&theme=onedark)
+![Hashim's GitHub Activity](https://ghchart.rshah.org/Hashim-baya)
 
 ---
 
