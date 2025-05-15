@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Hashim Baya  
+### 🚀 Frontend Developer | React & Tailwind CSS Specialist  
 
-<!--
-**Hashim-baya/Hashim-baya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **I build fast, beautiful web apps with:**  
 
-Here are some ideas to get you started:
+⚛️ React  
+🎨 Tailwind CSS  
+📱 Next.js  
+🟨 JavaScript/TypeScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack  
+
+| Frontend      | Tools         | Design       |
+|--------------|--------------|--------------|
+| React        | Git          | Figma        |
+| Next.js      | Vite         | Tailwind CSS |
+| JavaScript   | npm/yarn     | CSS3         |
+| TypeScript   | VS Code      | Responsive UI|
+
+---
+
+### 📊 GitHub Stats  
+
+![Hashim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hashim-baya&show_icons=true&theme=radical)  
+
+---
+
+### 🌟 Featured Projects  
+
+🔗 [Movie Website]((https://github.com/Hashim-baya/ALX-FE-CAPSTONE-PROJECT)) - React + Tailwind  
+🔗 [Portfolio Template]((https://github.com/Hashim-baya/CODSOFT/tree/main/PERSONAL-PORTFOLIO-WEBSITE)) - React + Tailwind  
+
+---
+
+### 📫 Reach Me  
+
+📧 Email: bayahashim40@email.com  
+🔗 LinkedIn: [hashim-baya](https://linkedin.com/in/hashim-baya)  
+🐦 Twitter: [@hashim_baya](https://x.com/hashim_baya)  
+
+---
+
+⚡ **Fun Fact:** I'm a coffee enthusiast ☕ and love hiking 🏔️!
